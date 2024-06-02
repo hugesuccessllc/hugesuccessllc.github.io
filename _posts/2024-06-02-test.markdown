@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "This is a test post"
+date:   2024-06-02 15:03:18 -0500
+categories: test
+---
+Okay, here's a test. It's in markdown so **this is bold** or whatever.
