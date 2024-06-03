@@ -25,6 +25,7 @@ In the meantime, you might be looking for other things I work on, under the ausp
 * [Hot for Teacher: The Greatest American Hero Watch Party](https://hotforteacher.tv), a non-horror podcast.
 * [AHA!](https://takeonme.org), where I run the AHA! CVE Numbering Authority.
 * [The CVE Program](https://cve.org), where I'm on the board.
+* [My GitHub profile](https://github.com/todb), where all my open source software nonsense lives.
 
 Maybe I'll use this site for blogging or something. I usually just post directly on
 [Infosec.Exchange](https://infosec.exchange/@todb), but maybe I'll just start porting
