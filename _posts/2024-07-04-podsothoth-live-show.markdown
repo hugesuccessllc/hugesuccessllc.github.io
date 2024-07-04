@@ -27,4 +27,4 @@ Tickets are free for [NecronomiCon Providence](necronomicon-providence.com) atte
 But, if you're some kind of weirdo who wants to see this live performance of a Lovecraft podcast *without* committing
 to an entire weekend-long conference ticket, we're asking $10 at the door.
 
-See you in Providence!
+See you in Providence this summer!

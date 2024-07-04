@@ -7,4 +7,8 @@ categories: test
 
 Another test post, now testing the new org and domain bits.
 
+Wow, something is sure caching weird.
+
+Eventually, this should be reachable via hugesuccess.org proper.
+
 <img src="/assets/test-fail.png">
