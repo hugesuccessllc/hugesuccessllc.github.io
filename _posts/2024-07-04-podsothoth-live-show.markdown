@@ -9,7 +9,7 @@ Well, we just secured a venue and time slot for our next live show, "Fungi from 
 at the historic Black Box Theater, **Thursday, August 15, 2024!** Hot dog! Kick off your
 weekend of weird fiction and Lovecraftian fandom with us!
 
-<img src="/assets/podsothtoh-necronomicon-poster.png"
+<img src="/podsothtoh-necronomicon-poster.png"
     width="66%"
      style="display: block;
      margin-left: auto;
@@ -24,7 +24,5 @@ insightful revelations, silly jokes, and more. Audience participation is encoura
 Tickets are free for [NecronomiCon Providence](necronomicon-providence.com) attendees (and you should get yours today).
 But, if you're some kind of weirdo who wants to see this live performance of a Lovecraft podcast *without* committing
 to an entire weekend-long conference ticket, we're asking $10 at the door.
-
-Keep an eye on this space, [https://hugesuccess.org/necro2024](https://hugesuccess.org/necro2024), for a link to online tickets.
 
 See you in Providence!

@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/avatar-todb.png"
+<img src="avatar-todb.png"
     style="float: left; margin-right: 30px; width: 200px;"
     alt="A photo of todb's face"
 />
