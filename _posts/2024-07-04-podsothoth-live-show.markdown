@@ -11,7 +11,7 @@ weekend of weird fiction and Lovecraftian fandom with us!
 
 <!-- I really have to fix this DNS nonsense -->
 
-<img src="https://github.com/todb/hugesuccess.org/blob/main/podsothtoh-necronomicon-poster.png?raw=true"
+<img src="/assets/podsothtoh-necronomicon-poster.png"
     width="66%"
      style="display: block;
      margin-left: auto;

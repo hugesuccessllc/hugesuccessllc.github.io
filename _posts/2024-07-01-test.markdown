@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "A new test"
+date:   2024-06-02 18:31:44 -0500
+categories: test
+---
+
+Another test post, now testing the new org and domain bits.
+
+<img src="/assets/test-fail.png">
