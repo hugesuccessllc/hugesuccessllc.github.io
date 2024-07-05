@@ -7,4 +7,8 @@ categories: test
 
 All right, how are we doing here? Still failing?
 
+Looks mostly good, just waiting for DNS to propagate all around. Yay.
+
+Anyway. It's a test post. Why did you read this far?
+
 <img src="/assets/test-fail.png">
