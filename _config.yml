@@ -22,7 +22,7 @@ title: Huge Success, LLC
 email: todb@hugesucess.org
 description: >- # this means to ignore newlines until "baseurl:"
   Test website, please ignore!
-# baseurl: "/hugesuccess.org" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://hugesuccessllc.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  todb
 
