@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "A new test"
-date:   2024-06-02 18:31:44 -0500
+title:  "Test Post"
+date:   2024-07-01 23:33:44 -0500
 categories: test
 ---
 
-Another test post, now testing the new org and domain bits.
+Test post, to see if the migration worked.
 
-Wow, something is sure caching weird.
-
-Eventually, this should be reachable via hugesuccess.org proper.
+Eventually, this should be reachable via hugesuccess.org without fuss.
 
 <img src="/assets/test-fail.png">
