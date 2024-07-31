@@ -11,12 +11,14 @@ weekend of weird fiction and Lovecraftian fandom with us!
 
 <!-- I really have to fix this DNS nonsense -->
 
+<a href="https://www.zeffy.com/en-US/ticketing/2f535ac3-91ad-414e-9c75-f32a837a119d">
 <img src="/assets/podsothtoh-necronomicon-poster.png"
     width="66%"
      style="display: block;
      margin-left: auto;
      margin-right: auto;"
  />
+ </a>
 
 **[GET TICKETS HERE!](https://www.zeffy.com/en-US/ticketing/2f535ac3-91ad-414e-9c75-f32a837a119d)**
 
