@@ -18,13 +18,16 @@ weekend of weird fiction and Lovecraftian fandom with us!
      margin-right: auto;"
  />
 
+**[GET TICKETS HERE!](https://www.zeffy.com/en-US/ticketing/2f535ac3-91ad-414e-9c75-f32a837a119d)**
+
 Join Tod and Claire of the internationally tolerated podcast, [Podsothoth: A Lovecraft Book Club](https://podsothoth.club)
 for their live, interactive performance of “Fungi from Yuggoth!" Originally written by Providence's own HP Lovecraft in
 1929 and 1930, this interactive experience at the Black Box Theater will feature dramatic readings of Lovecraftian poetry,
 insightful revelations, silly jokes, and more. Audience participation is encouraged, but of course, not required.
 
-Tickets are free for [NecronomiCon Providence](necronomicon-providence.com) attendees (and you should get yours today).
+Tickets are free for [NecronomiCon Providence](https://necronomicon-providence.com) attendees (and you should get yours today).
 But, if you're some kind of weirdo who wants to see this live performance of a Lovecraft podcast *without* committing
-to an entire weekend-long conference ticket, we're asking $10 at the door.
+to an entire weekend-long conference ticket, we're [asking $10](https://www.zeffy.com/en-US/ticketing/2f535ac3-91ad-414e-9c75-f32a837a119d),
+so snag your ticket either way, today!
 
-See you in Providence this summer!
+See you in Providence!
