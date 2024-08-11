@@ -32,3 +32,21 @@ But, if you're some kind of weirdo who wants to see this live performance of a L
 to an entire weekend-long conference ticket, we're [asking $10](https://www.zeffy.com/en-US/ticketing/2f535ac3-91ad-414e-9c75-f32a837a119d),
 so snag your place in Black Box Theater either way, today!
 
+# BONUS CONTENT!
+
+*The rule of human law means nothing amidst the spewing endless cosmos.*
+
+*But human law can still totally screw up your life, which also means nothing.*
+
+If you haven't had enough of Claire and Tod by the end of the show, never fear, for we will be joined by
+friend of the show Harley Geiger, Cyber Lawyer, for a riveting analysis of Lovecraftian Law in their talk,
+**Vanitas Horendum Lex: From Beyond the Bar**, hosted by [The Armitage Symposium](https://necronomicon-providence.com/the-armitage-symposium/)
+on **Friday, August 16, 2024** at 9:15am at the Omni Hotel, Bristol/Kent Room, 3rd floor.
+
+Come prepared with your legal questions such as,
+"If an immortal sorcerer possesses my weird wife, is that sufficient grounds for divorce in Massachusetts in 1924?"
+Even better, email us [hideous@podsothoth.club](mailto:hideous@podsothoth.club), and we'll see about incorporating your
+fictional legal conundruum into the lecture, time permitting.
+
+This presentation is, of course, only available to NecronomiCon pass holders, but you're in town
+anyway, so you may as well, right?
