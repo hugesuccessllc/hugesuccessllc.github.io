@@ -14,13 +14,9 @@ layout: home
 
 <p style="flex: 1; display: flex; align-items: center;">
 
-Hello, world! This is the scaffolding for the new <b>Huge Success</b> website. It's quite exciting. (Excitement not guaranteed.)
-<br/><br/>
-
-You might be looking for other things I work on, under the auspices of Huge Success, LLC. Until I get something fancier together, you can probably find that thing below.
+Hello, world! You might be looking for other things I work on, under the auspices of Huge Success, LLC. Until I get something fancier together, you can probably find that thing below.
 
 </p>
-<br/>
 </div>
 
 ---
