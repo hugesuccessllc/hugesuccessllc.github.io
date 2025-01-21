@@ -34,5 +34,5 @@ You might be looking for other things I work on, under the auspices of Huge Succ
 
 ---
 
-I do all my micro-blogging these days one
+I do all my micro-blogging these days over at
 <a href="https://infosec.exchange/@todb" rel="me">Infosec.Exchange</a>, so follow me there if you're into that sort of thing. 
