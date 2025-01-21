@@ -10,23 +10,18 @@ layout: home
     alt="A photo of todb's face"
 />
 
-Hello, world! This is the scaffolding for the new **Huge Success** website. It's quite exciting.
+Hello, world! This is the scaffolding for the new **Huge Success** website. It's quite exciting. (Excitement not guaranteed.) 
 
-I've been using Jekyll for years but kind of never really paid attention to how to use it correctly.
-I've gotten frustrated enough with my ignorance to figure it out now!
-
-In the meantime, you might be looking for other things I work on, under the auspices of
-**Huge Success**, which is likely what brought you here in the first place. Until I get something
-fancier together, you can probably find that thing, below:
+You might be looking for other things I work on, under the auspices of**Huge Success, LLC**. Until I get something fancier together, you can probably find that thing, below.
 
 <br/>
 
 ---
 
 
-* [Podsothoth: A Lovecraft Book Club](https://podsothoth.club), a horror podcast. Not for everyone.
-* [Hot for Teacher: The Greatest American Hero Watch Party](https://hotforteacher.tv), a non-horror podcast.
 * [Casa Tranquila](https://www.airbnb.com/rooms/40339239), in beautiful and remote Terlingua, Texas. You can rent it!
 * [AHA!](https://takeonme.org), where I run the AHA! CVE Numbering Authority.
 * [The CVE Program](https://cve.org), where I'm on the board.
 * [My GitHub profile](https://github.com/todb), where all my open source software nonsense lives.
+* [Podsothoth: A Lovecraft Book Club](https://podsothoth.club), a horror podcast. Not for everyone.
+* [Hot for Teacher: The Greatest American Hero Watch Party](https://hotforteacher.tv), a non-horror podcast.
