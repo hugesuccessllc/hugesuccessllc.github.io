@@ -16,7 +16,7 @@ layout: home
 
 Hello, world! This is the scaffolding for the new **Huge Success** website. It's quite exciting. (Excitement not guaranteed.) 
 
-You might be looking for other things I work on, under the auspices of**Huge Success, LLC**. Until I get something fancier together, you can probably find that thing below.
+You might be looking for other things I work on, under the auspices of **Huge Success, LLC**. Until I get something fancier together, you can probably find that thing below.
 
 </p>
 </div>
