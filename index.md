@@ -5,16 +5,21 @@
 layout: home
 ---
 
+<div style="display: flex; align-items: stretch;">
+
 <img src="/assets/avatar-todb.png"
-    style="float: left; margin-right: 30px; width: 200px;"
+    style="float: left; margin-right: 30px; width: 200px; height: 200px;"
     alt="A photo of todb's face"
 />
 
+<p style="flex: 1; display: flex; align-items: center;">
+
 Hello, world! This is the scaffolding for the new **Huge Success** website. It's quite exciting. (Excitement not guaranteed.) 
 
-You might be looking for other things I work on, under the auspices of**Huge Success, LLC**. Until I get something fancier together, you can probably find that thing, below.
+You might be looking for other things I work on, under the auspices of**Huge Success, LLC**. Until I get something fancier together, you can probably find that thing below.
 
-<br/>
+</p>
+</div>
 
 ---
 
