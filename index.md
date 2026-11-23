@@ -26,7 +26,7 @@ Hello, world! You might be looking for other things I work on, under the auspice
 * [The CVE Program](https://cve.org), where I'm on the board.
 * [My GitHub profile](https://github.com/todb), where all my open source software nonsense lives.
 * [Podsothoth: A Lovecraft Book Club](https://podsothoth.club), a horror podcast. Not for everyone.
-* [Hot for Teacher: The Greatest American Hero Watch Party](https://hotforteacher.tv), a non-horror podcast.
+* [War in Pieces](https://warinpiec.es), a non-horror podcast. Not for anyone.
 
 ---
 
